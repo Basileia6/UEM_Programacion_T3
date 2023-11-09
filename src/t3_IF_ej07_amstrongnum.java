@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class amstrongnum {
+public class t3_IF_ej07_amstrongnum {
 
     public static void main (String[] args) {
         Scanner reader = new Scanner(System.in);

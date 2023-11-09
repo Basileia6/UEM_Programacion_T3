@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class compare2nums {
+public class t3_IF_ej01_compare2nums {
 
     public static void main (String[] args){
         Scanner reader = new Scanner(System.in);

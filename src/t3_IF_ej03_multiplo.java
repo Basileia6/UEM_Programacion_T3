@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Multiplo {
+public class t3_IF_ej03_multiplo {
     public static void main (String[] args) {
         Scanner reader = new Scanner(System.in);
         System.out.println("Introduzca un número");

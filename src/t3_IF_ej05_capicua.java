@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class capicua {
+public class t3_IF_ej05_capicua {
 
     public static void main (String[] args) {
         Scanner reader = new Scanner(System.in);

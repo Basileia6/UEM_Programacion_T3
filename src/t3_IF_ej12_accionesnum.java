@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class accionesnum {
+public class t3_IF_ej12_accionesnum {
 
     public static void main (String[] args) {
         Scanner reader = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class inversos {
+public class t3_IF_ej06_inversos {
 
     public static void main (String[] args) {
         Scanner reader = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class numordenboolean {
+public class t3_IF_ej08_enterosOrden {
 
     public static void main (String[] args) {
         Scanner reader = new Scanner(System.in);
@@ -13,9 +13,6 @@ public class numordenboolean {
 
         System.out.println("Introduzca otro número más");
         int tercero = reader.nextInt();
-
-        System.out.println("¿Los números se ordenarán de forma ascendente?");
-        boolean asc = reader.nextBoolean();
 
         int aux = 0;
 
@@ -44,11 +41,6 @@ public class numordenboolean {
                 segundo = aux;
             }
         }
-
-        if(asc){
-            System.out.println(primero + " " + segundo + " " + tercero);
-        } else {
-            System.out.println(tercero + " " + segundo + " " + primero);
-        }
+        System.out.println(primero + " " + segundo + " " + tercero);
     }
 }
