@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class t3_FOR_ej04_lanzadados {
+public class t3_FOR_ej07_lanzadados {
 
     public static void main(String[] args) {
 
